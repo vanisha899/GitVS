@@ -14,7 +14,7 @@ namespace GitVS
 
             if(true)
             {
-                Console.WriteLine("testing");
+                Console.WriteLine("testing everything");
             }
         }
 
